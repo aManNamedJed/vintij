@@ -1,0 +1,20 @@
+{
+  "name": "vintij",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jed Darrohn <jamesdarrohn@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jdarrohn/vintij",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
